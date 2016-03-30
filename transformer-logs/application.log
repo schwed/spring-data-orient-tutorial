@@ -1,0 +1,80 @@
+14/Oct/2015 09:24:36,448- ApplicationConfiguration: application initialized.
+14/Oct/2015 09:24:37,051- TransformationServiceImpl: GOT SOURCE VERTEX: #11:567
+14/Oct/2015 09:24:37,051- TransformationServiceImpl: GOT TARGET VERTEX: #11:564
+14/Oct/2015 09:24:37,216- TransformationServiceImpl: SAVED LINK: rid = #13:12585
+14/Oct/2015 09:24:37,419- TransformationServiceImpl: SUCCESSFULLY DELETED IN-FEEDS.
+14/Oct/2015 10:56:49,656- ApplicationConfiguration: application initialized.
+14/Oct/2015 10:56:50,573- TransformationServiceImpl: GOT SOURCE VERTEX: #11:567
+14/Oct/2015 10:56:50,573- TransformationServiceImpl: GOT TARGET VERTEX: #11:564
+14/Oct/2015 10:57:45,138- ApplicationConfiguration: application initialized.
+14/Oct/2015 10:57:46,006- TransformationServiceImpl: GOT SOURCE VERTEX: #11:567
+14/Oct/2015 10:57:46,006- TransformationServiceImpl: GOT TARGET VERTEX: #11:564
+14/Oct/2015 11:10:40,351- ApplicationConfiguration: application initialized.
+14/Oct/2015 11:10:41,259- TransformationServiceImpl: GOT SOURCE VERTEX: #11:567
+14/Oct/2015 11:10:41,260- TransformationServiceImpl: GOT TARGET VERTEX: #11:564
+14/Oct/2015 11:11:42,088- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12553
+14/Oct/2015 11:17:36,013- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12554
+14/Oct/2015 11:18:29,694- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12555
+14/Oct/2015 11:18:35,111- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12556
+14/Oct/2015 11:18:37,998- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12557
+14/Oct/2015 11:18:41,264- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12558
+14/Oct/2015 11:19:27,344- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12559
+14/Oct/2015 11:19:29,666- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12560
+14/Oct/2015 11:19:32,081- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12561
+14/Oct/2015 11:19:34,113- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12562
+14/Oct/2015 11:19:36,130- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12563
+14/Oct/2015 11:19:37,977- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12564
+14/Oct/2015 11:19:39,856- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12574
+14/Oct/2015 11:19:42,106- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12584
+14/Oct/2015 11:19:43,954- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12585
+14/Oct/2015 11:20:30,667- TransformationServiceImpl: SAVED LINK: rid = #-1:-2
+14/Oct/2015 11:20:44,807- TransformationServiceImpl: SUCCESSFULLY DELETED IN-FEEDS.
+14/Oct/2015 11:26:41,961- ApplicationConfiguration: application initialized.
+14/Oct/2015 11:26:43,264- TransformationServiceImpl: GOT SOURCE VERTEX: #11:567
+14/Oct/2015 11:26:43,265- TransformationServiceImpl: GOT TARGET VERTEX: #11:564
+14/Oct/2015 11:26:43,330- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12586
+14/Oct/2015 12:53:41,744- ApplicationConfiguration: application initialized.
+14/Oct/2015 13:38:53,225- ApplicationConfiguration: application initialized.
+14/Oct/2015 13:42:53,639- ApplicationConfiguration: application initialized.
+14/Oct/2015 13:42:54,434- TransformationServiceImpl: GOT SOURCE VERTEX: #11:607
+14/Oct/2015 13:42:54,434- TransformationServiceImpl: GOT TARGET VERTEX: #11:562
+14/Oct/2015 13:42:54,478- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:10487
+14/Oct/2015 13:42:54,545- TransformationServiceImpl: SAVED TRANSFORMATION LINK: rid = #-1:-2
+14/Oct/2015 13:43:00,838- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12543
+14/Oct/2015 13:43:00,847- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12572
+14/Oct/2015 13:43:00,855- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12582
+14/Oct/2015 13:43:00,908- TransformationServiceImpl: SUCCESSFULLY DELETED IN-FEEDS.
+14/Oct/2015 15:21:35,855- ApplicationConfiguration: application initialized.
+14/Oct/2015 15:21:36,624- TransformationServiceImpl: GOT SOURCE VERTEX: #11:607
+14/Oct/2015 15:21:36,624- TransformationServiceImpl: GOT TARGET VERTEX: #11:562
+14/Oct/2015 15:21:36,661- TransformationServiceImpl: WILL DELETE TRANSFORMATION LINK WITH RID: #13:12587
+14/Oct/2015 15:21:36,675- TransformationServiceImpl: SAVED TRANSFORMATION LINK: rid = #-1:-2
+14/Oct/2015 15:21:43,081- TransformationServiceImpl: SUCCESSFULLY DELETED IN-FEEDS.
+14/Oct/2015 15:21:43,120- TransformationServiceImpl: GOT SOURCE VERTEX: #11:553
+14/Oct/2015 15:21:43,120- TransformationServiceImpl: GOT TARGET VERTEX: #11:554
+14/Oct/2015 15:21:43,158- TransformationServiceImpl: SAVED TRANSFORMATION LINK: rid = #-1:-3
+14/Oct/2015 15:21:49,196- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12537
+14/Oct/2015 15:21:49,245- TransformationServiceImpl: SUCCESSFULLY DELETED IN-FEEDS.
+14/Oct/2015 15:21:49,286- TransformationServiceImpl: GOT SOURCE VERTEX: #11:557
+14/Oct/2015 15:21:49,286- TransformationServiceImpl: GOT TARGET VERTEX: #11:556
+14/Oct/2015 15:21:49,318- TransformationServiceImpl: SAVED TRANSFORMATION LINK: rid = #-1:-4
+14/Oct/2015 15:21:55,916- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12539
+14/Oct/2015 15:21:55,925- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12546
+14/Oct/2015 15:21:55,935- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12568
+14/Oct/2015 15:21:55,945- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12578
+14/Oct/2015 15:21:55,991- TransformationServiceImpl: SUCCESSFULLY DELETED IN-FEEDS.
+14/Oct/2015 15:21:56,032- TransformationServiceImpl: GOT SOURCE VERTEX: #11:565
+14/Oct/2015 15:21:56,032- TransformationServiceImpl: GOT TARGET VERTEX: #11:558
+14/Oct/2015 15:21:56,066- TransformationServiceImpl: SAVED TRANSFORMATION LINK: rid = #-1:-5
+14/Oct/2015 15:22:03,197- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12541
+14/Oct/2015 15:22:03,205- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12570
+14/Oct/2015 15:22:03,212- AttributeRepository$AttributeGraphRepository: WILL REMOVE IN FEEDS EDGE: #13:12580
+14/Oct/2015 15:22:03,258- TransformationServiceImpl: SUCCESSFULLY DELETED IN-FEEDS.
+14/Oct/2015 17:13:00,879- ApplicationConfiguration: -----------------------------------------------------------------------
+14/Oct/2015 17:13:00,881- ApplicationConfiguration: application initialized.
+14/Oct/2015 17:14:31,409- ApplicationConfiguration: -----------------------------------------------------------------------
+14/Oct/2015 17:14:31,411- ApplicationConfiguration: application initialized.
+15/Oct/2015 10:08:48,359- ApplicationConfiguration: -----------------------------------------------------------------------
+15/Oct/2015 10:08:48,362- ApplicationConfiguration: application initialized.
+15/Oct/2015 10:13:05,253- ApplicationConfiguration: -----------------------------------------------------------------------
+15/Oct/2015 10:13:05,261- ApplicationConfiguration: application initialized.

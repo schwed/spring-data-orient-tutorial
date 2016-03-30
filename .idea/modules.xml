@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-orientdb-autoconfigure/spring-boot-orientdb-autoconfigure.iml" filepath="$PROJECT_DIR$/spring-boot-orientdb-autoconfigure/spring-boot-orientdb-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-orientdb-benchmarks/spring-data-orientdb-benchmarks.iml" filepath="$PROJECT_DIR$/spring-data-orientdb-benchmarks/spring-data-orientdb-benchmarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-orientdb-commons/spring-data-orientdb-commons.iml" filepath="$PROJECT_DIR$/spring-data-orientdb-commons/spring-data-orientdb-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-orientdb-document/spring-data-orientdb-document.iml" filepath="$PROJECT_DIR$/spring-data-orientdb-document/spring-data-orientdb-document.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-orientdb-graph/spring-data-orientdb-graph.iml" filepath="$PROJECT_DIR$/spring-data-orientdb-graph/spring-data-orientdb-graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-orientdb-object/spring-data-orientdb-object.iml" filepath="$PROJECT_DIR$/spring-data-orientdb-object/spring-data-orientdb-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-orientdb-parent.iml" filepath="$PROJECT_DIR$/spring-data-orientdb-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-orientdb-transformer/spring-data-orientdb-transformer.iml" filepath="$PROJECT_DIR$/spring-data-orientdb-transformer/spring-data-orientdb-transformer.iml" />
+    </modules>
+  </component>
+</project>

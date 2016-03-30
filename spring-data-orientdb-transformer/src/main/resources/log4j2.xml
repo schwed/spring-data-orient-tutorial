@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="30">
+    <Properties>
+        <Property name="log-path">${log4j2.logfile.location}</Property>
+    </Properties>
+
+    <Appenders>
+        <RollingFile name="RollingFile" fileName="${log-path}/application.log"
+                     filePattern="${log-path}/application-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout>
+                <pattern>%d{dd/MMM/yyyy HH:mm:ss,SSS}- %c{1}: %m%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="250 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="20"/>
+        </RollingFile>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <!--
+         Notice that the trace messages from Extractors appear twice.
+         This is because the appender associated with logger com.kpmg.dns.tools.spreadsheet.extraction.XLSXSpreadsheetExtractor
+         is first used, which writes the first instance to the Console. Next, the parent of this extractor, which in this case is the root logger, is referenced.
+         The event is then passed to its appender, which is also writes to the Console,
+         resulting in the second instance. This is known as additivity.
+         While additivity can be quite a convenient feature (as in the first previous example where no appender reference needed to be configured),
+         in many cases this behavior is considered undesirable and so it is possible to disable it
+         by setting the additivity attribute on the logger to false:
+
+         Once an event reaches a logger with its additivity set to false the event will not be passed
+         to any of its parent loggers, regardless of their additivity setting.
+        -->
+        <Logger name="com.kpmg.dns.orientdb.transform" additivity="false"
+                level="TRACE">
+            <AppenderRef ref="RollingFile"/>
+        </Logger>
+        <Logger name="com.kpmg.dns.orientdb.transform.dataaccess.repository" additivity="false"
+                level="TRACE">
+            <AppenderRef ref="RollingFile"/>
+        </Logger>
+        <Logger name="com.kon.orientdb.transform.MainTransformer" additivity="false"
+                level="TRACE">
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <Root level="error">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>
